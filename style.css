@@ -60,12 +60,11 @@ h1, h2, h3, h4, h5 {
 
 .banner {
 	display: flex;
-	justify-content: space-between;
 	margin: 7px 0;
 }
 
 .banner img {
-	width: 650px;
+	width: 710px;
 }
 
 .content {
